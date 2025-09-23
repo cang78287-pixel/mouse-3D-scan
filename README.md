@@ -26,10 +26,10 @@ A 3D scanned mouse model and some practical insights of 3D scan
 ## 失败案例展示
 
 环境光线不均匀导致的扫描失败：
-![环境光线问题](failed%20attempt/1.jpg)
+![环境光线问题](failed%20attempt/3.jpg)
 
 距离不平均导致的模型凹凸不平：
-![鼠标扫描失败](failed%20attempt/3.jpg)
+![鼠标扫描失败](failed%20attempt/1.jpg)
 # English version
 Since I only has an Android phone, they couldn’t use many more functional 3D scanning apps and could only barely find one that works. Moreover, this result was obtained on a mid-afternoon in the library—while enduring the confused stares of unfamiliar classmates across the table, feeling socially awkward, and flusteredly circling the mouse with a phone in hand. Therefore, the final outcome is somewhat rough; please bear with it.
 
