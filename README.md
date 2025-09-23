@@ -23,7 +23,7 @@ A 3D scanned mouse model and some practical insights of 3D scan
             其次，和模型之间的距离也要尽量保持一致，不然会变得坑坑洼洼凹凸不平……（详见failed attempt文件夹下的那个失败的鼠标，就是因为距离不平均导致的形状及其不准确）
           
 目前尝试下总结大致如上，模型成果见【鼠标.obj】，失败案例截图见【failed attempt】
- ![环境光线问题](failed attempt/1.jpg)
+ ![环境光线问题](failed attempt/1.jpeg)
 # English version
 Since I only has an Android phone, they couldn’t use many more functional 3D scanning apps and could only barely find one that works. Moreover, this result was obtained on a mid-afternoon in the library—while enduring the confused stares of unfamiliar classmates across the table, feeling socially awkward, and flusteredly circling the mouse with a phone in hand. Therefore, the final outcome is somewhat rough; please bear with it.
 
