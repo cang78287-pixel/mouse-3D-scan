@@ -17,14 +17,13 @@ A 3D scanned mouse model and some practical insights of 3D scan
     1、关于环境：
             首先，要减少不相关的杂物，不然模型上很可能出现一些神奇的纹理和杂色。
             其次，环境光要均匀，据说红外扫描不可以在发射红外光的物体下比如阳光下什么的，但是我是照片生成的，所以应该不太受红外光影响？（我觉得应该是这样…不过其实没有尝试过）不过呢，至少各个位置都得照亮，不然很可能会只能扫出来半个（详见failed attempt文件夹里面的线卷，阴影下的就完全没扫出来）
-            ![环境光线问题](failed attempt/1.jpg)
             均匀的前提下，最好可以多个方向有光，减少物体的投影，因为扫描会把投影也当成纹理画到模型上，当然我觉得影响其实也没有那么大啦。
     2、关于拍摄：
             首先，照片之间变化角度要均匀，方便更加精确地生成
             其次，和模型之间的距离也要尽量保持一致，不然会变得坑坑洼洼凹凸不平……（详见failed attempt文件夹下的那个失败的鼠标，就是因为距离不平均导致的形状及其不准确）
           
 目前尝试下总结大致如上，模型成果见【鼠标.obj】，失败案例截图见【failed attempt】
-
+ ![环境光线问题](failed attempt/1.jpg)
 # English version
 Since I only has an Android phone, they couldn’t use many more functional 3D scanning apps and could only barely find one that works. Moreover, this result was obtained on a mid-afternoon in the library—while enduring the confused stares of unfamiliar classmates across the table, feeling socially awkward, and flusteredly circling the mouse with a phone in hand. Therefore, the final outcome is somewhat rough; please bear with it.
 
